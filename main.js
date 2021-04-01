@@ -4,4 +4,4 @@ console.log("second hello");
 
 console.log("this is branch develop");
 
-console.log("branch conflict 1"");
+console.log("branch conflict this is develop"");
